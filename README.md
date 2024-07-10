@@ -19,3 +19,4 @@ Hamburg steak (Hanba-gu)<br>
 肉を甘辛く炒めたやつ<br>
 hamburg<br>
 shogayaki<br>
+nikujyaga<br>
